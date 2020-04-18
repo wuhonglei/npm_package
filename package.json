@@ -1,0 +1,15 @@
+{
+  "name": "@wuhonglei/npm_package",
+  "version": "1.0.0",
+  "description": "my npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "wuhonglei",
+  "license": "MIT"
+}
